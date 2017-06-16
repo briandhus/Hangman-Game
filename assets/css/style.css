@@ -1,0 +1,12 @@
+body {
+	background-color: #ce3ee8;
+	background-image: url("../images/hollywood.jpeg");
+	background-position: center;
+}
+
+h1 {
+	text-align: center;
+	font-size: 160px;
+	color: white;
+	padding-top: 160px;
+}
